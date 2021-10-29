@@ -1,0 +1,60 @@
+{
+    "products":
+    [
+        {
+            "id": 1,
+            "name": "Teclado Gamer - Redragon",
+            "price": 300.69,
+            "promotion": true,
+            "pricePromotion": 299.90,
+            "image": "teclado.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Mouse Gamer - Redragon",
+            "price": 200.00,
+            "promotion": false,
+            "pricePromotion": 0,
+            "image": "mouse.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Cadeira Gamer - Fox Racer",
+            "price": 997.85,
+            "promotion": false,
+            "pricePromotion": 0,
+            "image": "cadeira.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Fone Gamer - Redragon",
+            "price": 450.00,
+            "promotion": true,
+            "pricePromotion": 360.00,
+            "image": "fone.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Tv LG 29'",
+            "price": 400.00,
+            "promotion": false,
+            "pricePromotion": 0,
+            "image": "tv.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Monitor Samsung",
+            "price": 600,
+            "promotion": false,
+            "pricePromotion": 0,
+            "image": "monitor.jpg"
+        }
+    ],
+    "posts":[
+        {
+            "id" : 1,
+            "tittle": "json-server article",
+            "author": "json-server"
+        }
+    ]
+}
